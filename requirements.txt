@@ -1,0 +1,7 @@
+python-telegram-bot==20.5
+playwright==1.47.0
+aiosqlite
+pillow
+imagehash
+numpy
+python-dotenv
